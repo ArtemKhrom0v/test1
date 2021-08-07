@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.2-3-g899bfaa9-0ubuntu2~20.04.1 on Sat, 07 Aug 2021 12:20:46 +0000
+
+# User rules for artem
+artem ALL=(ALL) NOPASSWD:ALL
